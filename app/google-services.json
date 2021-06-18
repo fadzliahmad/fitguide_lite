@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "388309728070",
+    "firebase_url": "https://fitguide-ea68e-default-rtdb.firebaseio.com",
+    "project_id": "fitguide-ea68e",
+    "storage_bucket": "fitguide-ea68e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:388309728070:android:3dbad95914d9c82f2c4347",
+        "android_client_info": {
+          "package_name": "com.example.calculateyourbmi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "388309728070-jq607i4dd3ckebpsko0igknupikm19j7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1aop9tnSGscVJ9ZUQ9W-QVeDj4QJ40sY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "388309728070-jq607i4dd3ckebpsko0igknupikm19j7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
